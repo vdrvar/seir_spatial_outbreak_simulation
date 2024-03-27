@@ -7,7 +7,8 @@ Such models generalize classical SEIR ones that are only charactarized via diffe
 I designed and implemented the model in C++ using stochastic modelling, you can see an example of a development of the epidemic below (green = susceptible, yellow = incubated, red = infected, blue = removed):
 
 The case when the stochastic parameters suggest a controlled outbreak (what the government would prefer):
-![bacc_gif3](https://github.com/vdrvar/simulation_of_a_spatial_SEIR_model/assets/48907543/3c2d6c4f-d599-444f-8d99-8816c1666a90)
+![image](https://github.com/vdrvar/seir-spatial-outbreak-simulation/assets/48907543/4977f319-5a7d-428f-b6dc-2f1b3f92fb1e)
+
 
 
 The borderline case when the stochastic parameters suggest a risky spreading of the disease:
