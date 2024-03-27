@@ -17,4 +17,5 @@ The borderline case when the stochastic parameters suggest a risky spreading of 
 
 
 The case when the stochastic parameters suggest a total outbreak (what the government should avoid):
-![bacc_gif](https://github.com/vdrvar/simulation_of_a_spatial_SEIR_model/assets/48907543/cde4c2aa-bc64-4a87-9a8c-7b07c6ee5083)
+![image](https://github.com/vdrvar/seir-spatial-outbreak-simulation/assets/48907543/45d428ac-cac3-4b29-89b8-3f42cf56691d)
+
